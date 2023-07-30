@@ -1,5 +1,8 @@
 # File_sorting
- Program for sorting files by type
+
+Працездатність перевірена на системах win та mac. На системах сімейства Unix працездатність не гарантується
+
+Program for sorting files by type
 
 Interface: Ukrainian
 
